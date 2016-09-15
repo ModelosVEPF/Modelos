@@ -3,7 +3,7 @@
     xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
     xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-oyY0cO3vxProRF-1IP6wDw"
     name="new_supporting_material,_vyeZQOvLEeW3MJIMM8_7UQ" guid="-oyY0cO3vxProRF-1IP6wDw"
-    changeDate="2016-03-16T20:07:18.868-0300" version="version 1.1">
+    changeDate="2016-07-14T20:53:26.866-0300" version="version 1.1">
   <mainDescription>&lt;p>&#xD;
     Business Process Service Oriented Methodology (BPSOM) provides a guide for service oriented development from business&#xD;
     processes, that can be added as a plug-in to the existing base software development process of the organization. The&#xD;
